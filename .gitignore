@@ -1,0 +1,7 @@
+nordnet/
+venv/
+data/
+db-nordnet/
+db-nordnet/chroma.sqlite3
+__pycache__/
+requirements.txt
